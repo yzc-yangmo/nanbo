@@ -1,0 +1,192 @@
+curl 'https://ticket.wisdommuseum.cn/reservation/static/layer/theme/default/loading-0.gif' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'Referer: https://ticket.wisdommuseum.cn/reservation/static/layer/theme/default/layer.css?v=3.1.1' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' \
+  -H 'sec-ch-ua-platform: "Windows"' ;
+curl 'https://ticket.wisdommuseum.cn/reservation/ticketOut/out/saveOrderPC.do' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+  -H 'Cache-Control: max-age=0' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'Cookie: JSESSIONID=F489921669E655167A80F67212651B20; UM_distinctid=18b7a3285177ff-0d931be07d2d72-26031151-1bcab9-18b7a328518125d; CNZZDATA1281245212=160630283-1698562213-https%253A%252F%252Fwww.njmuseum.com%252F%7C1698566518; tfstk=euEDznbAfruboT-QeSnf29PEhGb-cIi_b5Kt6chNzblWX-CbMhDZZJwvD1iYjl2LCrLYHRlgSbyTknBjWFogdScxWmlOjfV4thhjHfFusJeEgnQjBhV7IWPi5tGt_fVTQrBRvMebhciwj6Idvzzd4L5d0SVmb-isb_hOSzJ3hWLaICsUALTosKE1W2lHKZVqn7vtLXyqg-eY4Cu2l-clQOruuqcejbxwbuDc4r8y8V-pfYWTqFTsuYMo9LK_6BMQsq-OETYC4qkShgXlEFTsuYMo9TXk8UuqFxsl.; acw_tc=2f624a5017088444860064234e14b5509331f1fba2a4cca281511fcd6a2d9b; acw_sc__v2=65dae5c6e1ad6dcaba0dcc5bf91aa0d0c90763cb' \
+  -H 'DNT: 1' \
+  -H 'Origin: https://ticket.wisdommuseum.cn' \
+  -H 'Referer: https://ticket.wisdommuseum.cn/reservation/ticketOut/out/toOrderPC.do' \
+  -H 'Sec-Fetch-Dest: iframe' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --data-raw 'token=1ca883bc-9869-46f3-b770-8000f25c59d0&date=2024-02-25&ticketType=normal&morAft=%E4%B8%8B%E5%8D%88&ids=23501040&ids=23501049' ;
+curl $'https://img.alicdn.com/imgextra/i1/O1CN01L12MaQ1ZwfYKk7Yrc_\u0021\u00216000000003259-2-tps-900-594.png' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'Referer: https://ticket.wisdommuseum.cn/' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' \
+  -H 'sec-ch-ua-platform: "Windows"' ;
+curl 'https://g.alicdn.com/AWSC/AWSC/awsc.js?t=2066' \
+  -H 'authority: g.alicdn.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+  -H 'dnt: 1' \
+  -H 'referer: https://ticket.wisdommuseum.cn/' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: script' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' ;
+curl 'https://g.alicdn.com/AWSC/et/1.77.2/et_f.js' \
+  -H 'authority: g.alicdn.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+  -H 'dnt: 1' \
+  -H 'referer: https://ticket.wisdommuseum.cn/' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: script' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' ;
+curl 'https://g.alicdn.com/AWSC/fireyejs/1.227.0/fireyejs.js' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'Referer: https://ticket.wisdommuseum.cn/' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' \
+  -H 'sec-ch-ua-platform: "Windows"' ;
+curl 'https://g.alicdn.com/AWSC/nc/1.97.0/nc.js' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'Referer: https://ticket.wisdommuseum.cn/' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' \
+  -H 'sec-ch-ua-platform: "Windows"' ;
+curl 'https://acjs.aliyun.com/error?v=et_f41_init&e=&stack=&line=' \
+  -H 'authority: acjs.aliyun.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+  -H 'cookie: t=33d033bfaaebe29ac1b39dfd6075547e; isg=BLOzZpzQ0pArHZ66pmzxPLH1Qrfd6EeqQkEaymVQD1IJZNMG7bjX-hH1HpSKQ5-i' \
+  -H 'dnt: 1' \
+  -H 'referer: https://ticket.wisdommuseum.cn/' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' ;
+curl 'https://8q2l6y.tdum.alibaba.com/dss.js' \
+  -H 'authority: 8q2l6y.tdum.alibaba.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+  -H 'cookie: t=cd0399d162672972e34bf4cdbd416256' \
+  -H 'dnt: 1' \
+  -H 'referer: https://ticket.wisdommuseum.cn/' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: script' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' ;
+curl 'https://ynuf.aliapp.org/w/wu.json' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: cbc=G8D58961D1145304B6F599E5C8CFED0E2B47DDB19C6AE790376; umdata_=GA8784080D4FFCC45A7D2F5AD716CDFFCBA973E96D9E0718CB7' \
+  -H 'DNT: 1' \
+  -H 'If-None-Match: G9BE6804DD096174E6291FBC7C94FC1F1634D9F95124258C9C2' \
+  -H 'Referer: https://ticket.wisdommuseum.cn/' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' ;
+curl 'https://cf-app-waf.cfc.aliyuncs.com/nocaptcha/initialize.jsonp?a=CF_APP_WAF&t=9d04374d02de679a77c5dc26a8ac5c64&scene=register&lang=cn&v=v1.3.21&href=https%3A%2F%2Fticket.wisdommuseum.cn%2Freservation%2FticketOut%2Fout%2FsaveOrderPC.do&comm=\{\}&callback=initializeJsonp_0174803455090351' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+  -H 'Connection: keep-alive' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://ticket.wisdommuseum.cn/' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' ;
+curl 'https://at.alicdn.com/t/font_1465353706_4784257.woff' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'Referer: https://ticket.wisdommuseum.cn/' \
+  -H 'Origin: https://ticket.wisdommuseum.cn' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' \
+  -H 'sec-ch-ua-platform: "Windows"' ;
+curl $'https://cf-app-waf.cfc.aliyuncs.com/nocaptcha/analyze.jsonp?a=CF_APP_WAF&t=9d04374d02de679a77c5dc26a8ac5c64&n=227\u0021SSiSphojXXm3DyCiWi3HgDudZ%2BP4JL9j4lPPOibZCSQWntR3DxnL3JrUVgiE9O3aPEMwCSPE8mJMtS3Oe8xcJPWY6%2Bo1wHRenHEueEjypCASntkk%2BVnL3SIb%2B%2BTfrYvCngjUUHvHa4Y3zt4sHzGdblkYmXjH5MwL%2BDPzOVvHP7sjCb74SGT4AalWqAgXmphinXPPOVjXEUQWnoRvc1lcYNccKCfXDpvCnXEPOJjXa7KW3W9bxKnD3XlzqKCXDn8inHPl89nma%2BdrybkRmRnDfiJWqmSSmpvV6DPPOJjXa7szntkhQknLfiMSrA6SKpvCnHE4aL7Xa7sznt3x3%2Fzx5kfCy0vgT3%2BpeZiD%2F2GpCAdZgJzDznPw5k9iy3WlzA%2BhgVSAJtXN5WQ%2BZM9DcR7vAhDVZQjzHAvKT4Fas4s3N8MuUXvVlisjJlfoDQuYIdaF%2BEdlL87v1KZdcAIev3wck3CDbGRZflLdrYaGdmqc3AIMmHM0el9rDvRVKE0WQ4n6gP%2FXwFxJw6zWNKCaTfPrf4ScIVNh2E%2FD2Wz3BVhXi5fuTf%2BfiZFMxGpdbTlbibo%2FpRI6QOO3y0CEwOVszNJxIMzW2wW%2Fw%2FpEiUq0XC98XLiQVKQH8PaQngzYpSt9TBDz%2F3r95hgEnPq1j6DorFgWIVsHFkd9G06%2Fn4QnmepLL4F1IIOoyXnT%2Bu5TRINqBYq3b9B4wkksFZ6dowGYIZbWtWsOEN%2FQeaigAQ5KujQEN5MmDIIr0OktVotK9e1nWEXZjfJyoTYeoF8A3Q1e8brXzVRGmBd6L44NzCB97iWYJeBk8OJbNGniPKJg%2FdaWJpzGpigHBWkvf2rKUTI72ddmbm0HaOcbwZffsxXoL2%2FvzpfiVgzNTJElSuN2HZZoH6Qvo%2Fw7oT4MzVPLcyz%2FPHqVlukdtWi1sKuXH4f9gwy4wwf5kxJGljEtyWEzJT%2BK7SF3H1uIiaMnV4RivghLn7ZwddyKzrtvOyQh38SZvm0KiHmKmfqxAyneFQiRuytealhI%2FoJFbEv2V22sIxOcbRgMC25f7R6chS2j2qNZbDJUVrN69mixpnjkUXUqwg7PLKCUEpJGfGoAuNHseyREslr%2BUXKYLuIVZeGS2Ov%2FPb6Ln7oE0V8TRI37u1YVIhJky5TFEk7cCaL1CDIkE2sPiw1gAW9T35Tnlv3HMStggOReSVlhMOSCoj9g8UE8x5%2FXohcMcqfCxcVfPtwVVem%2FLrWN0L5RbX8htETR%2FX7iReMGsI1ptQz7%2FDkEtd971YSXAjomlUYXa6Tvan1OOx1aMBpmZdS2ZZmNAeVlQDCNeRvsRAF8ikVq596TuDSI5Q4EtOhYx8gU6gBOjeyg4yNZA%2FupBc1VdnmpSqC%2F6U0HtGUdU2L2W%2BwZFE8Y8syHWl0qiW4ZjNyJFucMDb21WJX%2F5mDizLNUB%2Ff5ms8Rnucr%2BJRjlk%2BwutCmBeCW82Z8uyyCHMnw2AULENm2YGHqdVFO6E%2BgNND5ys35Hv2t2uhH4hpWuw8OzU34mnORcZ8DIqlQ6s42Fltk5mgM8LXlru1Q7kTwENSKIow0Eocp5Naxq9OSXYKNikWgfl%2Fk864z6%2BKtEb8ziARq%2FHWAJgekYd6F7R%2BWuYNENSECGBFbx0EBu%2FzCgf%2BeiR%2FIAYgECMGEp%2BtXbHUA1SjLRUebrMMKFZaQHuKn6gtoHzuEoJ88oyO4cmx7qH8xb4REJbm1eTuQyCQxBpOezw7x%2BrxjCP2RPb%2B%2BwwAmc8VkKlXEBLdf5%2BmulsWeaiYhg7RMdqWZD2dBplUdwVWWmYbGpUaAoHlzMqc6nFVg%2F8LVy9ZmZgYe1ATLPvogSB00UF%2FmusUquhEUwon%2Fn9e4yYQSysTUe2bJ%2FCgpczPDrP64yDn0KUZc6pFoRqb88sX4Xnc27U8%2BFKbmOu1LtRTYelDP3Pdt4ol7zcM%2Bl49xjgwltQuvIelnB6Nv15sqTcmZRvH5JPRFAwu%3D&p=%7B%22key1%22%3A%22code100%22%2C%22user%22%3A%22default%22%2C%22ncbtn%22%3A%22395%7C293.10418701171875%7C48%7C48%7C293.10418701171875%7C341.10418701171875%7C395%7C443%22%2C%22umidToken%22%3A%22G57AA5818C60AB592B0C2E44F1C4784A5C24E6C960B9AAF0C77%22%2C%22ncSessionID%22%3A%225e70de4eec36%22%2C%22et%22%3A%221%22%2C%22tid%22%3A%226ac1ac6a12aa4e69baf89d8c016602aecd49b849ee27d62fc5d82244b0522899dd04e786f1a3ab1ae1db2acdfc767bea%22%7D&scene=register&asyn=0&lang=cn&v=1&cid=545d77723a4fb35a2f08a1b8124a32c2&callback=jsonp_04700593911541442' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+  -H 'Connection: keep-alive' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://ticket.wisdommuseum.cn/' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' ;
+curl 'https://ticket.wisdommuseum.cn/reservation/ticketOut/out/saveOrderPC.do?u_atoken=9d04374d02de679a77c5dc26a8ac5c64&u_asession=01IZBRE1zhFMmv0_C_IV_pL9DZX_SSmhDwmx9-iQRmgbZJkTUCCX2zb5g1mtF7uOvvdlmHJsN3PcAI060GRB4YZGyPlBJUEqctiaTooWaXr7I&u_asig=05uq_DvuAHetmrfLSFGplrstJINuDO_CTs61XcZbHztxlYaPddaNf6lzdhXws7uvflal8r0rGB30WzYlXbz74ZdgznHaF62Lt2eJM3henCq1hujNpj1SsnF6GyynWmNjeeBBYbtwvE-9I0XT8wRVqvMexFv5gkNr0vPQiO5vCT0Utg2QMxYs6lyXb1lFWKql56x5MiuEZrAzAE3QPm4dIOD9YkJsNlIl9JhOVtWAh3VVzqKVLnmm7Z2Z5DxuwvJlTNW5ehTvjp7EzazxwmWRVh9XXHS22UC5cs6uX7kaBc8LypzWsVy4MypSthgy7kVsVNbscs26JxJSqPcIcNZT6Uug&u_aref=A4H7y7cJLjIsmm6Uc%2B3coHuJScs%3D' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+  -H 'Cache-Control: max-age=0' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'Cookie: JSESSIONID=F489921669E655167A80F67212651B20; UM_distinctid=18b7a3285177ff-0d931be07d2d72-26031151-1bcab9-18b7a328518125d; CNZZDATA1281245212=160630283-1698562213-https%253A%252F%252Fwww.njmuseum.com%252F%7C1698566518; acw_tc=2f624a5017088444860064234e14b5509331f1fba2a4cca281511fcd6a2d9b; acw_sc__v2=65dae5c6e1ad6dcaba0dcc5bf91aa0d0c90763cb; tfstk=fMYj3cV6N-2bfyBt3IhyN4jq1ybsaKgEW519tCU46ZQA6V99nnzw6ru1Bpvl0i5V3Pa9UT8VbZIa5Ope_llcQnJ6fTdpgEJqi1pkTBBA3sWwFOpwTnWcbAVDqpRLuEoc7P_cSNHEL2uFgIbGWmdDMtycw11t7rIOHYHckCMEL2uy6gMqHv-4xXXcg1XRMsCAWbsRsTCAMdBA28CCtNBttHZ_VJZB62z7yPeFoEh-mR2MP_HGpIZ0-sLRG8XMGTMiIUghc9dAFPMKW3TcCTYKU0Ok3npVZdgIFNvkXdC6e8HNmCKWFs9qdRXwoI813IixeQ_lhKIXVXEcNQ8X1hISMqd5ltseWKFTcZt9nFsDc5cHwZpkx9jxqYfWueS1Kgw-HQR5HMt14W4FdCrgf7s3W_6ENbZgjyzi11nayW5hD_ffPbG7haIAZ_6ENbZgjiClauGSN-_R.' \
+  -H 'DNT: 1' \
+  -H 'Origin: https://ticket.wisdommuseum.cn' \
+  -H 'Referer: https://ticket.wisdommuseum.cn/reservation/ticketOut/out/saveOrderPC.do' \
+  -H 'Sec-Fetch-Dest: iframe' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --data-raw 'token=1ca883bc-9869-46f3-b770-8000f25c59d0&date=2024-02-25&ticketType=normal&morAft=%E4%B8%8B%E5%8D%88&ids=23501040&ids=23501049' ;
+curl 'https://ticket.wisdommuseum.cn/reservation/static/css/global.css' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'Referer: https://ticket.wisdommuseum.cn/reservation/ticketOut/out/saveOrderPC.do?u_atoken=9d04374d02de679a77c5dc26a8ac5c64&u_asession=01IZBRE1zhFMmv0_C_IV_pL9DZX_SSmhDwmx9-iQRmgbZJkTUCCX2zb5g1mtF7uOvvdlmHJsN3PcAI060GRB4YZGyPlBJUEqctiaTooWaXr7I&u_asig=05uq_DvuAHetmrfLSFGplrstJINuDO_CTs61XcZbHztxlYaPddaNf6lzdhXws7uvflal8r0rGB30WzYlXbz74ZdgznHaF62Lt2eJM3henCq1hujNpj1SsnF6GyynWmNjeeBBYbtwvE-9I0XT8wRVqvMexFv5gkNr0vPQiO5vCT0Utg2QMxYs6lyXb1lFWKql56x5MiuEZrAzAE3QPm4dIOD9YkJsNlIl9JhOVtWAh3VVzqKVLnmm7Z2Z5DxuwvJlTNW5ehTvjp7EzazxwmWRVh9XXHS22UC5cs6uX7kaBc8LypzWsVy4MypSthgy7kVsVNbscs26JxJSqPcIcNZT6Uug&u_aref=A4H7y7cJLjIsmm6Uc%2B3coHuJScs%3D' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' \
+  -H 'sec-ch-ua-platform: "Windows"' ;
+curl 'https://ticket.wisdommuseum.cn/reservation/static/images/wh.jpg' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'Referer: https://ticket.wisdommuseum.cn/reservation/static/css/recommon.css' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' \
+  -H 'sec-ch-ua-platform: "Windows"' ;
+curl 'https://ticket.wisdommuseum.cn/reservation/static/images/cmlogin-btn.png' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"' \
+  -H 'Referer: https://ticket.wisdommuseum.cn/reservation/static/css/recommon.css' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0' \
+  -H 'sec-ch-ua-platform: "Windows"'
